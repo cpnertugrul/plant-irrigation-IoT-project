@@ -44,5 +44,4 @@ Bu proje kapsamında, ESP32 mikrodenetleyici kullanılarak toprak nemini ölçen
 - REST API entegrasyonu ile farklı bitki türlerine göre ideal nem seviyelerinin çekilmesi ve eşik değerlerin dinamik olarak belirlenmesi.
 - Manuel kontrol butonlarının web arayüzüne eklenmesi.
 - 3D yazıcı ile fiziksel donanımın birleştirilerek kompakt hale getirilmesi.
-- Güneş paneli entegrasyonu ile enerji bağımsızlığı.
 - Projenin ürünleştirilmesi ve küçük ölçekli bir prototip üretimi için pazar analizi yapılması.
